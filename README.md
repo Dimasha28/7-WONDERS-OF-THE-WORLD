@@ -67,7 +67,7 @@ This project was created to combine learning with interactive and aesthetic web 
 ### Steps
 1. Clone or download the project:
    ```bash
-   git clone https://github.com/yourusername/7-wonders-of-the-world.git
+   git clone https://github.com/Dimasha28/7-wonders-of-the-world.git
    cd 7-wonders-of-the-world
 
 
